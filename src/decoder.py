@@ -21,8 +21,6 @@ def melody_transformer():
 
     return model
 
-
-
 # gpt2-small
 
 def melody_transformer_pretrained_small():
